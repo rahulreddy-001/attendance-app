@@ -1,5 +1,9 @@
 # attendance-app
-Recording attendance of employee/student using mobile app , adding face recognition ,location 
+##Recording attendance of employee/student using mobile app , adding face recognition ,location 
+
+
+Employee attendance system is the system of tracking the attendance of the employee on the basis of the presence in the office. It recognize the employee by face while capturing the attendance through face recognition if the employee is present in the office premises. Date and time at which employee entered and left the office premises is recorded in the database. 
+
 
 
 ![image](https://user-images.githubusercontent.com/88628993/178255521-ff5418ba-71a7-469f-9ea7-63165b27c6f6.png)
