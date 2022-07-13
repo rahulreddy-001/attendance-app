@@ -12,3 +12,6 @@ Employee attendance system is the system of tracking the attendance of the emplo
 ![image](https://user-images.githubusercontent.com/88628993/178255586-e65e2f07-82ae-417b-8ad5-6a874f0eb17a.png)
 ![image](https://user-images.githubusercontent.com/88628993/178255602-07c1640e-d8c5-4ce3-9b3b-6f4ab76291f1.png)
 ![image](https://user-images.githubusercontent.com/88628993/178255617-43224609-3bae-49c0-9486-9c0c5b7e54fa.png)
+
+
+[SmartAttendanceApp.pdf](https://github.com/rahulreddy-001/attendance-app/files/9098788/SmartAttendanceApp.pdf)
